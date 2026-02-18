@@ -11,7 +11,7 @@ The goal was to understand how real-world AI models can be integrated into web a
 
 ## 🚀 Live Demo
 
-*(Add your Streamlit app link here)*
+*https://vibe-checker-app-iznyasrpshrwlql35t6kce.streamlit.app/*
 
 ---
 
@@ -72,7 +72,7 @@ This project represents a step toward building practical AI products and underst
 Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/Lohith158/vibe-checker-app.git>
 cd vibe-checker-app
 ```
 
